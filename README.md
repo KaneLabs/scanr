@@ -1,9 +1,9 @@
 ## Scanr
 #### QR Code Scanning App for FlyReel
 
-![image](src/assets/Scanr.png)
-![image](src/assets/Links.png)
-![image](src/assets/Link.png)
+![image](src/assets/Scanr.PNG)
+![image](src/assets/Links.PNG)
+![image](src/assets/Link.PNG)
 
 
 ## Missing
