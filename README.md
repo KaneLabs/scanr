@@ -8,4 +8,5 @@
 
 ## Missing
 * Test Coverage
+* Type Checking
 * Android configuration
