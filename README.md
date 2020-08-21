@@ -1,6 +1,7 @@
+# React Native Code Challenge
+
 ## Scanr
 ### QR Code Scanning App
-#### React Native Code Challenge
 
 ![image](src/assets/Scanr.PNG)
 ![image](src/assets/Links.PNG)
