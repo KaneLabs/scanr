@@ -1,5 +1,6 @@
 ## Scanr
-#### QR Code Scanning App for FlyReel
+### QR Code Scanning App
+#### React Native Code Challenge
 
 ![image](src/assets/Scanr.PNG)
 ![image](src/assets/Links.PNG)
